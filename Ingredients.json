@@ -1,0 +1,6 @@
+{
+	"meat": ["bacon", "beef", "boar", "chicken", "chicken", "chops", "crab", "goat", "ham", "kebab", "keema", "kidney ", "lamb", "liver", "liver", "liver", "meat", "meat stock", "mutton ", "octopus", "oyster", "partridge", "pork", "skinned", "squid", "stock", "stock", "turkey", "bone", "bones", "brisket", "bull", "caviar", "chorizo", "clam", "crab", "duck", "fish", "foie gras", "ham", "kabab", "lobster", "ox", "pastrami", "phuket", "pig", "pork", "prawn", "salmon", "sausage", "shrimp", "steak", "tuna", "veal"],
+	"vegan": ["milk", "curd", "cheese", "yogurt", "Mushroom", "Egg", "mayonnaise", "tofu", "margarine", "honey"],
+	"lactose": ["milk", "curd", "cheese", "cream", "yogurt", "butter", "custard", "buttermilk", "ghee"],
+	"nuts": ["walnut", "peanut"]
+}
